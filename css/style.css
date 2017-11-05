@@ -232,6 +232,10 @@ ul.social-icons {
   .menu{
       width: 140px;
     }
+    .box{
+      width: 350px;
+      height: 950px;
+    }
 }
 
 @media only screen 
@@ -244,6 +248,10 @@ ul.social-icons {
   .menu{
       width: 140px;
     }
+   .box{
+      width: 350px;
+      height: 950px;
+   } 
 }
 
 @media only screen 
