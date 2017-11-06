@@ -50,7 +50,6 @@ body {
   animation-timing-function: 1s ease-in;
 }
 .menu .title {
-  top: 50%;
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
